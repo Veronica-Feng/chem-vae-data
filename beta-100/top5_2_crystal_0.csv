@@ -1,0 +1,4 @@
+smiles,logp,qed,Nacceptors,Ndonners,molwt
+C#CCCCC(=O)N[C@H](C(=O)N[C@H](CC(C)C)C(=O)NN(CCC(N)=O)C(=O)/C=C/C(=O)OC)C(C)(C)C,0.31610000000000493,0.08131314231188806,12,4,535.300598652
+O=C(Oc1ccc2ccc1)N1OC[C@@H]1CC(c2cc(Br)cc1)C1                                                                            ,4.303900000000003,0.6346103841137947,4,0,373.031355472
+O=C(Nc1cncc2ccccc12)[C@@H]1CCOc2ccc(Cl)cc21,4.393000000000003,0.7534186601945831,4,1,338.0822054
